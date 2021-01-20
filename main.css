@@ -1,0 +1,203 @@
+body{
+    margin: 0;
+}
+
+#header{
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-color: white;
+    background-size: 100% 100%;
+    margin-left:auto;
+    margin-right:auto;
+}
+#nav{
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    margin-top: 15px;
+}
+
+#logo {
+    width: 30px;
+    height: 35px;
+    padding: 10px;
+    margin-left: 16px;
+}
+
+#Signup_link{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    float: right;
+    text-decoration: none;
+    margin: 15px;
+    border: 8px solid black;
+    background-color: black;
+    border-radius: 8px;
+    padding: 8px;
+    margin-top: auto;
+}
+
+#nav_links{
+    font-family: sans-serif;
+    float: right;
+    color: black;
+    text-decoration: none;
+    margin-top: 15px;
+    font-weight: bold;
+    padding: 8px;
+}
+
+#design_div{
+    position: absolute;
+    width: 745px;
+    height: 300px;
+    top: 50%;
+    margin-top: -200px;
+    left: 50%;
+    margin-left: -400px;
+}
+
+#design_text{
+    font-family: cursive;
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    margin-top: -5px;
+
+}
+
+#design_under_text{
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: -50px;
+    font-size: 20px;
+}
+
+#try_figma_free{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    padding: 18px 50px 18px 50px;
+    border-radius: 8px;
+    background-color: black;
+    position: absolute;
+    left: 30%;
+    margin-left: -80px;
+    margin-top: 30px;
+}
+
+#try_figma_free:visited{
+    font-family: sans-serif;
+    color: white;
+    text-decoration: none;
+}
+
+#button_div{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+    background-image: url("images/iconfinder_ic_play_arrow_48px_352072.png");
+    width: 15px;
+    height: 15px;
+    min-zoom: 10%;
+    background-size: cover;
+    border-radius: 20px;
+    left: 20%;
+    margin-left: 400px;
+    margin-top: 74px
+}
+
+#See_how_it_works{
+    position: absolute;
+    font-family: cursive;
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 30px 10px 30px;
+    left: 250px;
+    margin-left: 145px;
+    margin-top: -37px;
+}
+
+#vid_div{
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    background-image: url("images/dark.png");
+    background-size: cover;
+    margin-right: 25px;
+    margin-top: 60px;
+    padding-bottom: 56.81818181818182%;
+    border: 3px solid #2c2c2c;
+    border-radius: 8px;
+}
+
+#icon_div{
+    position: absolute;
+    width: 700px;
+    height: 80px;
+    background-color: red;
+    margin-top: 500px;
+    padding: 10px 30px 10px 30px;
+    left: 250px;
+}
+
+#icon_1{
+    position: relative;
+    width: 95px;
+    height: 95px;
+    background-image: url("images/git.png");
+    background-size: cover;
+    width: 70px;
+    height: 70px;
+    left: 40%;
+    margin-top: 470px;
+    border-radius: 20px;
+}
+#dropbox_i{
+    position: relative;
+    background-image: url("images/dropbox3.png");
+    background-size: cover;
+    background-color: white;
+    width: 90px;
+    height: 90px;
+    left: 55%;
+    margin-top: -80px;
+    border-radius: 20px;
+}
+
+#twitter{
+    position: relative;
+    background-color: yellow;
+    background-image: url("images/twitter.png");
+    background-size: cover;
+    width: 70px;
+    height: 70px;
+    left: 25%;
+    margin-top: -80px;
+}
+
+#meet_our_customers_div{
+    padding: 18px 50px 18px 50px;
+    background-color: white;
+    left: 50%;
+    margin-top: 30px;
+    width: 160px;
+    height: 15px;
+    margin-left: 42%;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+#meet_our_customers_text{
+    text-decoration: none;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 100%;
+    margin-top: 5px;
+}
