@@ -368,14 +368,175 @@ body{
 
   #y_div{
       width: 100%;
-      height: 1000px;
-      background-color: orange;
+      height: 1500px;
+      background-color:#FFC700;;
   }
   #prototyping_div{
-      width: 150px;
-      height: 100px;
-      background-color: pink;
-      padding: 40px 60px 40px 60px;
+      width: 250px;
+      height: 70px;
+      margin-left: 20px;
+      margin-top: -1000px;
+  }
+
+  #prototyping_text{
+    margin-top: -1350px;
+    margin-left: 30px;
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+  }
+
+  #tandem_div{
+      width: 250px;
+      height: 150px;
+      margin-left: 20px;
+      margin-top: -45px;
+  }
+
+  #tandem_text{
+      margin-top: 15px;
+      margin-left: 30px;
+      font-family: sans-serif;
+      font-weight: bold;
+      font-size: 35px;
+  }
+
+  #tandem_under_div{
+      width: 250px;
+      height: 300px;
+      margin-left: 20px;
+      margin-top: 50px;
+  }
+
+  #tandem_under_text{
+      font-family: sans-serif;
+      font-size: 20px;
+      margin-left: 20px;
+  }
+
+  #create_div{
+      width: 200px;
+      height: 50px;
       border: 3px solid black;
-      margin-top
+      border-radius: 8px;
+      margin-left: 20px;
+      margin-top: -95px;
+  }
+
+  #create_text{
+      margin-left: 30px;
+      font-family: sans-serif;
+      font-weight: bold; 
+  }
+
+  #white_div{
+      width: 450px;
+      height: 250px;
+      background-color: white;
+      border: 3px solid black;
+      border-radius: 8px;
+      margin-top: 550px;
+      margin-left: 15%;
+  }
+
+  #blue_div{
+      width: 550px;
+      height: 350px;
+      background-color: blue;
+      border: 3px solid green;
+      margin-top: -550px;
+      margin-left: 10%;
+  }
+
+  #collaboration_div{
+    width: 250px;
+    height: 70px;
+    margin-left: 57%;
+    margin-top: -350px;
+  }
+
+  #colla_text{
+      font-family: sans-serif;
+      font-weight: normal;
+      font-size: 20px;
+      margin-top: -350px;
+  }
+
+  #team_div{
+    width: 450px;
+    height: 250px;
+    margin-left: 57%;
+    margin-top: 250px;
+  }
+
+  #team_text{
+      font-family: sans-serif;
+      font-weight: bold;
+      font-size: 60px;
+      margin-top: -275px;
+  }
+
+  #share_div{
+      width: 450px;
+      height: 120px;
+      margin-left: 57%;
+  }
+
+  #share_text{
+      font-family: sans-serif;
+      font-weight: normal;
+      font-size: 20px;
+  }
+
+  #work_div{
+      width: 150px;
+      height: 50px;
+      margin-left: 57%;
+      border: 3px solid black;
+      border-radius: 8px;
+  }
+
+  #work_text{
+      font-family: sans-serif;
+      font-weight: bold;
+      margin-left: 20px;
+  }
+
+  #diana_div{
+    width: 100%;
+    height: 500px;
+    margin-top: 90px;
+    background-color: #C7B9FF;
+  }
+
+  #figma_rep_div{
+      width: 500px;
+      height: 45px;
+      margin-left: 20%;
+      padding: 200px 60px 200px 60px;
+  }
+
+  #figma_rep_text{
+      font-family: sans-serif;
+      font-weight: bold;
+      font-size: 30px;
+      margin-top: -45px;
+  }
+
+  #figrep_under_text{
+      font-family: sans-serif;
+      font-size: 20px;
+  }
+
+  #designsystems_div{
+    width: 250px;
+    height: 70px;
+    margin-left: 20px;
+    margin-top: 20%;
+  }
+
+  #designsystems_text{
+      font-family: sans-serif;
+      font-size: 20px;
+      margin-left: 20px;
   }
